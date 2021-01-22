@@ -13,6 +13,7 @@
 I created an application that retrieves weather data for cities using a Third-party API and Javascript. 
 
 ## First Look: 
+![Weather Dashboard App](https://user-images.githubusercontent.com/69092983/105550978-b4699e00-5cc7-11eb-85a5-97b36030acdd.gif)
 
 ## Technologies Used: 
 * [Open Weather](https://openweathermap.org/api)
